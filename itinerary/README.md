@@ -1,6 +1,6 @@
 Instructions:
 
-1. git clone https://gitea.kood.tech/georgkaasik/itinerary.git
+1. git clone <repository-url>
 
 2. cd <path/to/Prettifier.java>
 
