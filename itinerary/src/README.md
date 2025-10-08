@@ -1,6 +1,6 @@
 Usage:
 
-git clone https://gitea.kood.tech/georgkaasik/itinerary.git
+git clone https://github.com/PuuRaidur/itinerary-prettifier.git
 
 cd itinerary/src
 
